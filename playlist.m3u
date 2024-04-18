@@ -25,3 +25,9 @@ https://livestar.siliconweb.com/media/star1/star1.m3u8
 https://skai-live-gr-cy-back.siliconweb.com/media/cambria4/index.m3u8
 #EXTINF:-1 group-title="GreekTv" tvg-name="open" tvg-logo="https://upload.wikimedia.org/wikipedia/el/e/e5/Open_TV_logo.png",OPEN TV HD
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="GreekTv" tvg-name="art" tvg-logo="\https://2.bp.blogspot.com/-sl_6u97rvYo/Xj6lPlBLFUI/AAAAAAAAVqE/TUu2KPanqOcXoXHLF2zGdZX3Ct5I5WMLQCK4BGAYYCw/s1600/ART-FINAL-LOGOwhite.png",art
+https://hugh.cdn.rumble.cloud/live/3fms19g4/slot-88/9831-juai/chunklist_DVR.m3u8
+#EXTINF:-1 group-title="GreekTv" tvg-name="mak" tvg-logo="https://maktv.gr/assets/maktv_logo_pink_720.png?qc-size=720,240",MAK TV HD
+https://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/maktv_3.m3u8
+#EXTINF:-1 group-title="GreekTv" tvg-name="action24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Action24-logo-small.png",ACTION 24 HD
+https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
